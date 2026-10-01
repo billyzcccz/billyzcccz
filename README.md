@@ -36,13 +36,3 @@ Python · C/C++ · OpenCV · PyTorch · SolidWorks · 3D Printing
 ### Contact
 
 [1120230544@smbu.edu.cn](mailto:1120230544@smbu.edu.cn) · [GitHub](https://github.com/billyzcccz)
-
-### Coding lately
-
-<!--START_SECTION:waka-->
-Coding stats will appear here after WakaTime is connected.
-<!--END_SECTION:waka-->
-
----
-
-<p align="right"><sub>Learn by building. Improve by testing.</sub></p>
